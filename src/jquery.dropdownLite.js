@@ -1,5 +1,5 @@
 /**
- * version 1.0 - 9/11/2012
+ * version 1.0.1 - 8/25/2013
  * 
  * @requires: jquery 1.7.x
  * Create a widget, that when clicked will cause a "body" element to appear beneath it. You can have multiple widgets share a single body, 
